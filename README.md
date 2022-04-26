@@ -37,11 +37,3 @@ then run frontend react js server like this:
 -npm start
 http://127.0.0.1:3000/
 
-
-
-
-
-
-Following are the requirements to be done and implemented in this project further without breaking its current functionality.
-
-360 product view on product details page + product video shown in iframe on product details page + wishlist option + tawk.to or similar live chat support(icon in bottom right of screen) or any messenger support which is easiest to integrate.
